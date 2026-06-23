@@ -62,7 +62,7 @@
     'creation-site-monaco':       'Votre \u00e9quipe cr\u00e9ation de site Monaco, sans recruter.',
     'agence-social-media-monaco': 'Votre \u00e9quipe social media Monaco, sans recruter.',
     'directeur-marketing-externalise': 'Votre directeur marketing externalis\u00e9, sans recruter.',
-    'fractional-cmo-monaco': 'Your fractional CMO in Monaco, without hiring.',
+    'fractional-cmo-monaco':      'Your fractional CMO in Monaco and the French Riviera, without hiring.',
     'audit-digital':              'Votre audit digital strat\u00e9gique complet, sans recruter.',
     'agence-geo-ia':              'Votre \u00e9quipe GEO, sans recruter.'
   };
