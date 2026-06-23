@@ -64,7 +64,7 @@
     'directeur-marketing-externalise': 'Votre directeur marketing externalis\u00e9, sans recruter.',
     'fractional-cmo-monaco': 'Your fractional CMO in Monaco, without hiring.',
     'audit-digital':              'Votre audit digital strat\u00e9gique complet, sans recruter.',
-    'agence-geo-ia':              'Votre \u00e9quipe GEO et IA, sans recruter.'
+    'agence-geo-ia':              'Votre \u00e9quipe GEO, sans recruter.'
   };
 
   var h2 = document.querySelector('.section-team .team_heading .heading-style-h2');
