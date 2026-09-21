@@ -34,7 +34,9 @@
 
     'audit-digital': '<p><strong>30+ experts seniors</strong> mobilis\u00e9s \u00e0 la demande sur votre audit digital 360\u00b0\u00a0: <strong>strat\u00e8ges seniors B2B et B2C</strong> qui analysent mod\u00e8le \u00e9conomique et structure de marge, <strong>experts SEO et GEO</strong> sur Google et les moteurs IA (ChatGPT, Claude, Perplexity, Gemini), <strong>analystes concurrentiels SERP</strong>, paid media managers Google Ads, Meta Ads et LinkedIn Ads, experts CRO et tunnel de conversion, designers UX/UI, d\u00e9veloppeurs Webflow et Shopify pour l\u0027audit technique, sp\u00e9cialistes tracking GA4 et attribution multicanal, experts CRM et automatisation (HubSpot, Brevo, Pipedrive).</p><p>Toute la cha\u00eene de diagnostic coordonn\u00e9e sur votre constat\u00a0: vente directe ou indirecte, verticales, \u00e9cosyst\u00e8me de ressources. Vous gardez la hauteur de vue dirigeante. On prend en charge l\u0027analyse et la hi\u00e9rarchisation des priorit\u00e9s.</p><p>Pas un consultant isol\u00e9 qui livre un audit g\u00e9n\u00e9rique et dispara\u00eet\u00a0: un <strong>directeur digital senior</strong> qui pilote personnellement votre audit digital, du <strong>constat business</strong> jusqu\u0027aux <strong>trois priorit\u00e9s chiffr\u00e9es</strong>, en couvrant les quatre niveaux du mod\u00e8le \u00e9conomique \u00e0 la technique. Pour transformer un diagnostic en d\u00e9cision, sur <strong>Google et les moteurs IA</strong>. Constat 360\u00b0, attribution multicanal claire, recommandation de trajectoire actionnable.</p>',
 
-	'agence-geo-ia': '<p><strong>30+ experts seniors</strong> mobilis\u00e9s \u00e0 la demande sur votre visibilit\u00e9 dans les moteurs IA\u00a0: <strong>experts GEO et SEO</strong>, <strong>r\u00e9dacteurs IA sp\u00e9cialis\u00e9s contenu citable</strong>, <strong>int\u00e9grateurs Schema.org et donn\u00e9es structur\u00e9es</strong>, analystes de citations ChatGPT, Claude, Perplexity et Gemini, consultants intention de recherche et autorit\u00e9 de marque, d\u00e9veloppeurs Webflow et Shopify pour l\u0027optimisation on-page, paid media managers pour les synergies SEA/SEO, sp\u00e9cialistes tracking GA4 et Search Console, ghostwriter LinkedIn.</p><p>Toute la cha\u00eene <strong>GEO (Generative Engine Optimization)</strong> et SEO coordonn\u00e9e sur votre projet. Vous gardez la hauteur de vue strat\u00e9gique. On prend en charge la complexit\u00e9 op\u00e9rationnelle au quotidien.</p><p>Pas un consultant ponctuel qui livre un audit et dispara\u00eet\u00a0: une <strong>agence GEO</strong> pilot\u00e9e par un <strong>directeur digital senior</strong>, du diagnostic d\u0027empreinte IA initial jusqu\u0027\u00e0 la mesure des <strong>citations dans les r\u00e9ponses g\u00e9n\u00e9ratives</strong>, pour devenir la marque que <strong>ChatGPT, Claude, Perplexity et Gemini</strong> recommandent. Monitoring des citations IA r\u00e9gulier, attribution organique claire, reporting mensuel structur\u00e9.</p>'
+	'agence-geo-ia': '<p><strong>30+ experts seniors</strong> mobilis\u00e9s \u00e0 la demande sur votre visibilit\u00e9 dans les moteurs IA\u00a0: <strong>experts GEO et SEO</strong>, <strong>r\u00e9dacteurs IA sp\u00e9cialis\u00e9s contenu citable</strong>, <strong>int\u00e9grateurs Schema.org et donn\u00e9es structur\u00e9es</strong>, analystes de citations ChatGPT, Claude, Perplexity et Gemini, consultants intention de recherche et autorit\u00e9 de marque, d\u00e9veloppeurs Webflow et Shopify pour l\u0027optimisation on-page, paid media managers pour les synergies SEA/SEO, sp\u00e9cialistes tracking GA4 et Search Console, ghostwriter LinkedIn.</p><p>Toute la cha\u00eene <strong>GEO (Generative Engine Optimization)</strong> et SEO coordonn\u00e9e sur votre projet. Vous gardez la hauteur de vue strat\u00e9gique. On prend en charge la complexit\u00e9 op\u00e9rationnelle au quotidien.</p><p>Pas un consultant ponctuel qui livre un audit et dispara\u00eet\u00a0: une <strong>agence GEO</strong> pilot\u00e9e par un <strong>directeur digital senior</strong>, du diagnostic d\u0027empreinte IA initial jusqu\u0027\u00e0 la mesure des <strong>citations dans les r\u00e9ponses g\u00e9n\u00e9ratives</strong>, pour devenir la marque que <strong>ChatGPT, Claude, Perplexity et Gemini</strong> recommandent. Monitoring des citations IA r\u00e9gulier, attribution organique claire, reporting mensuel structur\u00e9.</p>',
+  	
+	'agence-inbound-marketing': '<p><strong>30+ experts seniors</strong> mobilis\u00e9s \u00e0 la demande sur votre inbound marketing : <strong>r\u00e9dacteurs et strat\u00e8ges de contenu</strong>, <strong>experts SEO et GEO</strong> sur Google et les moteurs IA (ChatGPT, Claude, Perplexity, Gemini), designers UX/UI et d\u00e9veloppeurs Webflow, Shopify et PrestaShop pour les pages de conversion, <strong>sp\u00e9cialistes CRM et automatisation (HubSpot, Brevo, Pipedrive)</strong>, paid media managers pour l\u0027amplification, social media managers, ghostwriter LinkedIn, sp\u00e9cialistes tracking GA4 et attribution.</p><p>Toute la cha\u00eene inbound coordonn\u00e9e sur votre projet, du contenu lu au rendez-vous qualifi\u00e9. Vous gardez la hauteur de vue strat\u00e9gique. On prend en charge la production, la coordination et le pilotage au quotidien.</p><p>Pas une agence qui livre un calendrier \u00e9ditorial et un rapport de trafic : un <strong>directeur digital senior</strong> qui pilote chaque mois, de la strat\u00e9gie pos\u00e9e en 6 \u00e0 8 semaines jusqu\u0027\u00e0 la mesure des <strong>contacts qualifi\u00e9s et du chiffre d\u0027affaires</strong>. Aucun logiciel impos\u00e9, <strong>attribution multicanal claire</strong>, <strong>reporting mensuel structur\u00e9</strong>.</p>'
   };
   var rt = document.querySelector('.team_content .w-richtext');
   if (rt) {
@@ -64,7 +66,8 @@
     'directeur-marketing-externalise': 'Votre directeur marketing externalis\u00e9, sans recruter.',
     'fractional-cmo-monaco':      'Your fractional CMO in Monaco and the French Riviera, without hiring.',
     'audit-digital':              'Votre audit digital strat\u00e9gique complet, sans recruter.',
-    'agence-geo-ia':              'Votre \u00e9quipe GEO, sans recruter.'
+    'agence-geo-ia':              'Votre \u00e9quipe GEO, sans recruter.',
+	'agence-inbound-marketing':   'Votre \u00e9quipe inbound marketing compl\u00e8te, sans recruter.'
   };
 
   var h2 = document.querySelector('.section-team .team_heading .heading-style-h2');
@@ -295,7 +298,7 @@ window.addEventListener("load", function() {
 
     var experts = [
       {
-        keywords: ["seo", "referencement", "geo"],
+        keywords: ["seo", "referencement", "geo", "inbound"],
         name: "Maxime Carpentier",
         role: "expert SEO et GEO chez upwedo.",
         desc: "Audit technique SEO (Schema.org, Core Web Vitals, robots.txt, hreflang), analyse d\u2019intention de recherche sur SEMrush, production \u00e9ditoriale calibr\u00e9e, pilotage GEO sur ChatGPT, Claude, Perplexity et Gemini. Suivi des positions et des citations IA sur dashboard Looker Studio.",
@@ -379,7 +382,7 @@ window.addEventListener("load", function() {
         : '20 ans dans le digital. Ex-Solocal/PagesJaunes (r\u00e9f\u00e9rencement, SEO, e-commerce et strat\u00e9gie d\u2019acquisition multicanal). 2 exits entrepreneuriaux\u00a0: Netvendeur (e-commerce) et Appart-Maison (immobilier digital). Accompagne aujourd\u2019hui 47+ PME en direction digitale externalis\u00e9e.';
 
       var julienHTML = '<div style="display:flex; align-items:center; gap:14px; margin-bottom:16px;">'
-        + '<img src="https://cdn.prod.website-files.com/698214af8e24b79f834dc41d/69da237318173e81603df9c6_Julien%20-%20Directeur%20Digital.avif" alt="' + imgAlt + '" style="width:48px; height:48px; border-radius:50%; object-fit:cover;">'
+        + '<img src="https://cdn.prod.website-files.com/698211b33c9e387a1c6f3f4a/6aa806c6c8539cc723ce2457_julien-deloume-upwedo.avif" alt="' + imgAlt + '" style="width:48px; height:48px; border-radius:50%; object-fit:cover;">'
         + '<div>' + byLine + '</div>'
         + '</div>'
         + '<div style="font-size:14px; color:#4B5563; margin-bottom:' + (matchedExpert ? '16px' : '0') + ';">' + bioDesc + '</div>';
@@ -555,6 +558,10 @@ window.addEventListener("load", function () {
       "agence-geo-ia": [
         "Agence GEO et IA pour PME : devenez la marque que ChatGPT, Claude, Perplexity et Gemini recommandent.",
         "Diagnostic d'empreinte IA, contenu citable et autorit\u00e9 de marque : une visibilit\u00e9 sur Google et les moteurs IA, pilot\u00e9e mois apr\u00e8s mois."
+      ],
+		"agence-inbound-marketing": [
+        "Agence inbound marketing pour PME : des contenus qui font venir le client, une direction qui pilote chaque mois.",
+        "Stratégie, contenus, SEO et GEO, pages de conversion, publicité d'amplification et CRM, coordonnés par un seul pilote, partout en France."
       ]
     };
 
