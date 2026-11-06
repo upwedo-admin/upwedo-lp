@@ -195,12 +195,15 @@ document.addEventListener("DOMContentLoaded", function () {
   var typedStrings = (window.location.pathname.indexOf("fractional-cmo-monaco") !== -1)
     ? ["committed", "expert", "close to you"]
     : ["engag\u00e9", "expert", "proche de vous"];
-  new Typed(".typedjs-multiple", {
-    strings: typedStrings,
-    typeSpeed: 100,
-    backSpeed: 100,
-    loop: true
-  });
+  // 06/11/2026 : Typed.js seulement si la page porte l'élément .typedjs-multiple (sinon erreur console)
+  if (document.querySelector(".typedjs-multiple") && typeof Typed !== "undefined") {
+    new Typed(".typedjs-multiple", {
+      strings: typedStrings,
+      typeSpeed: 100,
+      backSpeed: 100,
+      loop: true
+    });
+  }
 });
 
 window.addEventListener("load", () => {
